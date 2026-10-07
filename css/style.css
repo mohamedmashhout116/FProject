@@ -1,0 +1,64 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background-color: #0A5C36;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 20px;
+}
+
+main {
+    padding: 30px;
+    min-height: 400px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #0A5C36;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: white;
+}
+
+form {
+    background-color:#0A5C36;
+    padding: 50px ;
+    margin: 40px auto;
+    width: 500px;
+    text-align: center;
+    border-radius:20px;
+    box-shadow: 0 -3px 15px rgba(0,0,0, .3) ;
+
+}
+
+form label{
+    color: white;
+    
+}
+
+form p{
+ color: white;
+ display: inline-block;
+}
